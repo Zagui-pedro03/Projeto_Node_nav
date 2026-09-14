@@ -2,7 +2,7 @@
 
 - Node.js + Express
 - Bootstrap
-- EJS (pacote de front-end do npm)
+- EJS (Template Engine)
 
 # Linguagem principal
 
